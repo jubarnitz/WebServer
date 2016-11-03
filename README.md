@@ -1,9 +1,5 @@
-/********************************************
- * CS4273 Network Systems					*
- * Assignment 2 HTTP Web Server				*
- * Name: Justin Barnitz						*
- * Date: 10/18/2016 						*
- *******************************************/
+# WebServer
+ HTTP-based	web	server	that	handles	multiple	simultaneous	requests	from	users.
 
  Usage: ./webserver
 
